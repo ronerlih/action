@@ -4,7 +4,6 @@ import Nav from "./components/Nav";
 import Project from "./components/Project";
 import logo from "./logo.svg";
 
-const App = 12;
 function App() {
    return (
       <>
